@@ -1,0 +1,5 @@
+{
+  "name": "AI Data Cleaner & SQL Generator",
+  "description": "An intelligent tool that automatically cleans raw CSV or Excel data, infers data types, and generates corresponding MySQL CREATE TABLE and INSERT statements using the power of AI.",
+  "requestFramePermissions": []
+}
